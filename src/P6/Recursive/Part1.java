@@ -1,4 +1,4 @@
-package P6.Part1;
+package P6.Recursive;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ fibo(n) { if ( n <= 2) return 1;
     else return fibo(n – 1) + fibo(n – 2);
 */
 
-public class Main {
+public class Part1 {
     public static Scanner sc = new Scanner(System.in);
 
     public static int Fib(int n) {

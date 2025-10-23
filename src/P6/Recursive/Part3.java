@@ -1,4 +1,4 @@
-package P6.Part3;
+package P6.Recursive;
 import java.util.Scanner;
 
 
@@ -21,7 +21,7 @@ import java.util.Scanner;
     }
  */
 
-public class Main {
+public class Part3 {
     public static Scanner sc = new Scanner(System.in);
 
     public static int UCLN(int p, int q){

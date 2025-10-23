@@ -1,4 +1,4 @@
-package P6.Part2;
+package P6.Recursive;
 import java.util.Scanner;
 
 /*
@@ -14,7 +14,7 @@ Giải thuật đệ quy cho bài toán tháp hà nội:
     }
 */
 
-public class Main {
+public class Part2 {
     public static Scanner sc = new Scanner(System.in);
     public static void chuyen(int n, String A, String B, String C) { 
         if (n == 1) { 
